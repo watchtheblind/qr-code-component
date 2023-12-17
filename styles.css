@@ -4,10 +4,14 @@ body {
 .main-container{
     display: flex;
     flex-direction: column;
-    margin: auto;
+    margin-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
     background: white;
-    width: 11.64cm;
+    width: 11.64cm;;
     border-radius: 25px;
+    flex-wrap: wrap; /* enable wrapping */
+    justify-content: space-between; /* distribute free space between items */
 }
 .image-container{
     flex: 1;
@@ -31,8 +35,19 @@ img{
     font-family: 'Outfit', sans-serif;
 }
 
-.main-text, .image-container{
-    border: 1px;
+
+.image-description-text{
+    max-width: 83%;
+    /* border: 1px;
     border-color:black;
-    border-style: solid;
+    border-style: solid; */
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    margin: auto;
+    margin-bottom: .7cm;
+    text-align: center;
+    font-size: 0.55cm;
+}
+.attribution{
+    margin-top: 4%;
 }
