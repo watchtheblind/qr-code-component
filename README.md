@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution url](https://your-solution-url.com)
+- Solution URL: [Solution url](https://www.frontendmentor.io/solutions/qr-code-component-no-responsive-_Px9S2r75E)
 - Live Site URL: [Live site on github pages](https://watchtheblind.github.io/qr-code-component/)
 
 ## My process
