@@ -17,13 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 
-[check the screenshot here](https://i.imgur.com/amww3oo.png)
+[Check the screenshot here](https://i.imgur.com/amww3oo.png)
 
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://watchtheblind.github.io/qr-code-component/)
+- Solution URL: [Solution url](https://your-solution-url.com)
+- Live Site URL: [Live site on github pages](https://watchtheblind.github.io/qr-code-component/)
 
 ## My process
 
